@@ -1,0 +1,16 @@
+# Backups automáticos do KiCad
+*.bak
+*-backups/
+*.kicad_sym-bak
+*.kicad_prl
+*.kicad_pro
+
+# Arquivos de bloqueio / temporários
+*~
+\#auto_saved_files#
+fp-info-cache
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
