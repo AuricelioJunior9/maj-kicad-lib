@@ -16,6 +16,7 @@ Parte do conteúdo desta biblioteca é **derivado das bibliotecas oficiais do Ki
 
 - KiCad Symbols — https://github.com/KiCad/kicad-symbols
 - KiCad Footprints — https://github.com/KiCad/kicad-footprints
+- KiCad 3D Models — https://github.com/KiCad/kicad-packages3D
 
 Copyright dos respectivos autores, licenciado sob CC-BY-SA 4.0.
 Licença original: https://www.kicad.org/libraries/license/

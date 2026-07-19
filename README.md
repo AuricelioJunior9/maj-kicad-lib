@@ -14,12 +14,13 @@ materiais (BOM) do seu projeto já sai com o código de compra.
 |---|---|
 | `maj-kicad-lib.kicad_sym` | Biblioteca de **símbolos** (esquemático) |
 | `MAJ.pretty/` | Biblioteca de **footprints** (placa) |
+| `MAJ.3dshapes/` | **Modelos 3D** (.step — abre em qualquer CAD) |
 
 ### Componentes disponíveis
 
-| Símbolo | Footprint | Descrição | SKU |
-|---|---|---|---|
-| `BC547` | `TO-92_Inline` | Transistor NPN, 0.1 A Ic, 45 V Vce, TO-92 | `TRANSISTOR` |
+| Símbolo | Footprint | Modelo 3D | Descrição | SKU |
+|---|---|---|---|---|
+| `BC547` | `TO-92_Inline` | `TO-92_Inline.step` | Transistor NPN, 0.1 A Ic, 45 V Vce, TO-92 | `TRANSISTOR` |
 
 > Esta lista cresce conforme novos componentes são cadastrados na loja.
 
@@ -44,6 +45,15 @@ materiais (BOM) do seu projeto já sai com o código de compra.
 5. Defina o **Apelido** como `MAJ` → **OK**
 
 Pronto: os componentes aparecem como `MAJ:BC547` e `MAJ:TO-92_Inline`.
+
+### Modelos 3D
+
+Os arquivos `.step` da pasta `MAJ.3dshapes/` são **universais** — abrem em qualquer
+CAD (KiCad, Altium, Fusion 360, SolidWorks, FreeCAD). Use-os para verificar
+encaixe mecânico, projetar caixas e gerar renders do seu produto.
+
+No KiCad, o modelo já vem associado ao footprint: basta abrir o visualizador 3D
+(**Alt+3**) que o componente aparece montado na placa.
 
 ---
 
