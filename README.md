@@ -20,7 +20,7 @@ materiais (BOM) do seu projeto já sai com o código de compra.
 
 | Símbolo | Footprint | Modelo 3D | Descrição | SKU |
 |---|---|---|---|---|
-| `BC547` | `TO-92_Inline` | `TO-92_Inline.step` | Transistor NPN, 0.1 A Ic, 45 V Vce, TO-92 | `TRANSISTOR` |
+| `BC547` | `TO-92_Inline` | `TO-92_Inline.step` | Transistor NPN, 0.1 A Ic, 45 V Vce, TO-92 | `BC547` |
 
 > Esta lista cresce conforme novos componentes são cadastrados na loja.
 
