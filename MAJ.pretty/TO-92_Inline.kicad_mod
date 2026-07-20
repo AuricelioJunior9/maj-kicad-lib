@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "10.0")
 	(layer "F.Cu")
-	(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
+	(descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf) | MAJ Circuits - CC-BY-SA 4.0, derivado das bibliotecas oficiais do KiCad - https://github.com/AuricelioJunior9/maj-kicad-lib")
 	(tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
 	(property "Reference" "REF**"
 		(at 1.27 -3.56 0)

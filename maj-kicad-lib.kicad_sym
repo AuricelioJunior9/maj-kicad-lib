@@ -125,6 +125,50 @@
 				)
 			)
 		)
+		(property "Fabricante" "onsemi"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Revisao" "2026-07-20"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Padrao" "Recomendacao do fabricante (TO-92 inline, passo 2.54mm)"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Licenca" "CC-BY-SA 4.0 - MAJ Circuits, derivado das bibliotecas oficiais do KiCad - https://github.com/AuricelioJunior9/maj-kicad-lib"
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "ki_keywords" "NPN Transistor"
 			(at 0 0 0)
 			(show_name no)
