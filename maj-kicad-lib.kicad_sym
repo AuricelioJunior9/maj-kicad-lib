@@ -114,7 +114,7 @@
 				)
 			)
 		)
-		(property "Loja" "https://www.majcircuits.com.br/produto/transistor-bc547-npn-to-92-45v-100ma"
+		(property "Loja" "https://www.majcircuits.com.br/produto/transistor"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
